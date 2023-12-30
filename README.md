@@ -1,3 +1,7 @@
+Developed by:
+S.PREETHI
+RegisterNumber:
+212223230157
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -62,13 +66,6 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
 
-Developed by:
-S.PREETHI
-
-
-
-RegisterNumber:
-212223230157
 
 ![image](https://github.com/PreethiS647/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147313372/c188d547-d94f-494c-bb93-3fb5a81d663d)
 
